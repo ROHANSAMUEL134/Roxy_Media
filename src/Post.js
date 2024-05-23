@@ -8,7 +8,7 @@ const Post = ({ post }) => {
                 <h2>{post.title}</h2>
                 <p className="postDate">{post.dateTime}</p>
             </Link><br></br>
-            <img src={`posts images/${post.image}`} alt="Post Image" className="post-image"/>
+            <img src={`posts images/${post.image}`} className="post-image"/>
             <div className="icons">
                 <FaHeart className="icon" style={{color:'hsl(0, 100%, 70%)'}}/>
                 <FaRegComment className="icon"/>
