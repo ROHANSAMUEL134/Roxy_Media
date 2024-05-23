@@ -15,7 +15,7 @@ function App() {
       title: "Vellore Fort🏰",
       dateTime: "March 01, 1566 09:30:27 AM",
       image: "Vellore Fort.jpg",
-      body: "A 450+ years old Castle holding Vellor's heritage💪"
+      body: "A 450+ years old Castle holding Vellore's heritage💪"
     },
     {
       id: 3,
