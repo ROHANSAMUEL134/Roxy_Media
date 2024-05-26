@@ -177,17 +177,13 @@ body {
   margin-top: 0.25rem;
 }
 
-.postBody {
-  margin: 1rem 0;
-}
-
 .post-image{
   width: 220px;
   height: auto;
 }
 
 .icon{
-  margin:8px;
+  margin: 2px 8px;
   font-size: larger;
   color:black;
 }
