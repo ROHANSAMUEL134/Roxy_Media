@@ -14,6 +14,11 @@ const About = () => {
             key React concepts such as Events, Icons, Props, Hooks, 
             integrating APIs with Axios and performing CRUD operations.
           </p>
+          <div style={{ textAlign: 'right' }}>
+            <a href="https://rohan-samuel-portfolio.netlify.app" style={{fontSize: "medium",textAlign: "right"}}>
+              - About the Developer!!
+            </a>
+          </div>
       </main>
   )
 }
