@@ -7,7 +7,8 @@ const Post = ({ post }) => {
             <Link to={`post/${post.id}`}>
                 <h2>{post.title}</h2>
                 <p className="postDate">{post.dateTime}</p>
-            </Link><br></br>
+            </Link>
+            <div style={{height:'2px'}}></div>
             <img src={`posts images/${post.image}`} alt={post.image} className="post-image"/>
             <div className="icons">
                 <FaHeart className="icon" style={{color:'hsl(0, 100%, 70%)'}}/>
