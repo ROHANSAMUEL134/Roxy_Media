@@ -9,7 +9,7 @@ const Post = ({ post }) => {
                 <p className="postDate">{post.dateTime}</p>
             </Link>
             <div style={{height:'2px'}}></div>
-            <img src={`posts images/${post.image}`} alt={post.image} className="post-image"/>
+            <img src={post.image} alt={post.image} className="post-image"/>
             <div className="icons">
                 <FaHeart className="icon" style={{color:'hsl(0, 100%, 70%)'}}/>
                 <FaRegComment className="icon"/>
