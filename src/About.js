@@ -1,21 +1,20 @@
 const About = () => {
   return (
       <main className='About'>
-          <h2>About</h2>
+          <h2 style={{color:'hsl(0, 100%, 70%)'}}>About</h2>
           <div className="container">
             <div className="circle">
             <img src="Profile.jpeg" alt="ROHAN SAMUEL J" className="profile-image" />
             </div>
           </div><br></br>
-          <strong>Roxy Media : </strong><br></br>
+          <strong style={{color:'hsl(0, 100%, 70%)'}}>Brand Values : </strong><br></br>
           <p style={{textAlign: "justify", lineHeight: "1.4"}}>
-            I've crafted Roxy Media a user-friendly single-page 
-            Social-media application built with React. Leveraging 
-            key React concepts such as Events, Icons, Props, Hooks, 
-            integrating APIs with Axios and performing CRUD operations.
+          🌐 Connect, Share, Inspire | Your Digital World Awaits 🌟<br></br>
+          📸 Capture Moments, Create Memories | <br></br>Join the Social Revolution 🌍<br></br>
+          💬 Engage, Express, Explore | Your Voice, Amplified 🚀
           </p>
           <div style={{ textAlign: 'right' }}>
-            <a href="https://rohan-samuel-portfolio.netlify.app" style={{fontSize: "medium",textAlign: "right"}}>
+            <a target="_blank" rel="noreferrer" href="https://rohan-samuel-portfolio.netlify.app" style={{fontSize: "medium",textAlign: "right"}}>
               - About the Developer!!
             </a>
           </div>
