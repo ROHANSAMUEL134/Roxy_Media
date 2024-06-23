@@ -39,6 +39,12 @@ body {
   box-shadow: 0px 0px 15px gray;
 }
 
+h2{
+  padding-left: 5px;
+  border-left: 5px solid mediumseagreen;
+  box-shadow: inset 8px 0 5px -5px mediumseagreen;
+}
+
 .Header, .Footer {
   width: 100%;
   background-color: hsl(0, 100%, 70%);
@@ -133,7 +139,6 @@ body {
 .Nav li:hover a, 
 .Nav li:focus a  {
   background-color:hsl(0, 100%, 70%);
-  color: black;
 }
 
 .Nav li:hover a, 
