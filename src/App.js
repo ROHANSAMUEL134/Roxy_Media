@@ -14,28 +14,28 @@ function App() {
       id: 4,
       title: "Vellore Fort🏰",
       dateTime: "March 01, 1566 09:30:27 AM",
-      image: "Vellore Fort.jpg",
-      body: "A 450+ years old Castle holding Vellore's heritage💪"
+      image: "posts images/Vellore Fort.jpg",
+      body: "450+ years old Castle preserving Vellore's heritage💪"
     },
     {
       id: 3,
       title: "Tamilnadu🙏",
-      dateTime: "July 01, 2021 11:17:36 AM",
-      image: "Mahabalipuram.jpg",
+      dateTime: "June 02, 2021 11:17:36 AM",
+      image: "posts images/Mahabalipuram.jpg",
       body: "Where culture meets timeless tradition.🍃"
     },
     {
       id: 2,
       title: "India won World cup 2011🏆",
       dateTime: "April 02, 2011 11:17:36 PM",
-      image: "Dhoni.jpg",
+      image: "posts images/Dhoni.jpg",
       body: "Dhoni finishes off in style🔥"
     },
     {
       id: 1,
       title: "Interstellar🎥",
       dateTime: "November 07, 2014 12:00:00 AM",
-      image: "Interstellar.jpg",
+      image: "posts images/Interstellar.jpg",
       body: "Journey beyond Time⏳, Space🌌, and love❤️."
     }
   ])
