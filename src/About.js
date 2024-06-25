@@ -1,7 +1,7 @@
 const About = () => {
   return (
       <main className='About'>
-          <h2 style={{color:'hsl(0, 100%, 70%)'}}>About</h2>
+          <h2>About</h2>
           <div className="container">
             <div className="circle">
             <img src="Profile.jpeg" alt="ROHAN SAMUEL J" className="profile-image" />
